@@ -35,7 +35,7 @@
 | 쿠팡 파트너스 수집 | `coupang_collect` | v1.0.0 | 2026-10-03 | [보기](업데이트내역/%EC%BF%A0%ED%8C%A1%ED%8C%8C%ED%8A%B8%EB%84%88%EC%8A%A4%EC%88%98%EC%A7%91.md) |
 | 키워드 어시스턴트 | `keyword_collect` | v1.1.0 | 2026-10-03 | [보기](업데이트내역/%ED%82%A4%EC%9B%8C%EB%93%9C%EC%96%B4%EC%8B%9C%EC%8A%A4%ED%84%B4%ED%8A%B8.md) |
 | 트래픽 어시스턴트 | `blog_traffic` | v1.1.0 | 2026-10-03 | [보기](업데이트내역/%ED%8A%B8%EB%9E%98%ED%94%BD%EC%96%B4%EC%8B%9C%EC%8A%A4%ED%84%B4%ED%8A%B8.md) |
-| 포스팅어시스턴트 | `posting_assistant` | v1.1.2 | 2026-10-26 | [보기](업데이트내역/%ED%8F%AC%EC%8A%A4%ED%8C%85%EC%96%B4%EC%8B%9C%EC%8A%A4%ED%84%B4%ED%8A%B8.md) |
+| 포스팅어시스턴트 | `posting_assistant` | v1.1.3 | 2026-10-26 | [보기](업데이트내역/%ED%8F%AC%EC%8A%A4%ED%8C%85%EC%96%B4%EC%8B%9C%EC%8A%A4%ED%84%B4%ED%8A%B8.md) |
 | 프롬프트 스튜디오 | `prompt_studio` | v1.0.0 | 2026-10-03 | [보기](업데이트내역/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4.md) |
 | 플레이스 수집 | `place_collect` | v1.0.0 | 2026-10-03 | [보기](업데이트내역/%EB%84%A4%EC%9D%B4%EB%B2%84%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%EC%88%98%EC%A7%91.md) |
 
